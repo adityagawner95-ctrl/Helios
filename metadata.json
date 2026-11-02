@@ -1,0 +1,6 @@
+{
+  "name": "HELIOS Edge Command",
+  "description": "Enterprise Edge AI & IoT Command Center for real-time telemetry, solar grid intelligence, edge network topology, AI anomaly detection, and Digital Twin observability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
